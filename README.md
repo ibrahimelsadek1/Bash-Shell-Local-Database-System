@@ -1,6 +1,6 @@
 # Bash-Shell-Local-Database-System
 
-Hello, this is a Database simulation on the local file system of linux.
+ a Database simulation on the local file system of linux using bash shell scripting 
 -------------------------------------------------
 
 
