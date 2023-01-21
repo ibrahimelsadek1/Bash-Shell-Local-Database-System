@@ -3,12 +3,6 @@
  a Database simulation on the local file system of linux using bash shell scripting 
 -------------------------------------------------
 
-
-project by : 
-- hesham hassan 
-- ibrahim elsadek 
-
-
 >deliverd features (8) :
 1 - Create Database user
 2 - Delete Database User
